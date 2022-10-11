@@ -1,5 +1,5 @@
 /* Created by: Ali Mugamai
-* Created on: Sep 2020
+* Created on: Oct 2022
 * This file contains the CSS for index.html
 */
 
@@ -21,12 +21,8 @@
   opacity: 0.001;
 }
 
-body {
-  background-color: green;
-}
-
 p {
-  color: blueviolet;
+  color: rgb(0, 0, 0);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
   padding-top: 5pt;
