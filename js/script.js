@@ -9,7 +9,16 @@
  */
 function doMathClicked() {
   document.getElementById("perimeter").innerHTML =
+<<<<<<< HEAD
+    "<p>2(3+5)+2(3+5) =  " + (16*2) + "</p>"
+=======
     "<p>2(3+5)+2(3+5) =  " + (3 + 5 * 2 + 3 + 5 * 2) + "</p>"
+>>>>>>> 69704c7a7ced7a1b7e25c732902543580f3d56ba
   document.getElementById("area of square").innerHTML =
-    "<p>3 + 3 × 4 = " + 5 * 3 + "</p>"
+<<<<<<< HEAD
+    "<p>3 x 5 = " + (5 * 3) + "</p>"
+
+=======
+    "<p>3 x 4 = " + (5 * 3) + "</p>"
+>>>>>>> 69704c7a7ced7a1b7e25c732902543580f3d56ba
 }
